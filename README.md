@@ -21,11 +21,12 @@ Currently working on and interested in **Agentic AI**, **Kubernetes**, and **GPU
 
 ### Highlights
 
-- Lead strategic enterprise clients through Azure adoption — greenfield environments, migrations, and application modernization
-- Deployed AI platform on Azure Landing Zone enabling ChatGPT-based document retrieval, **improving user efficiency by 75%**
-- Modernized legacy applications onto AKS with full CI/CD automation, **cutting deployment times by 50–75%**
-- Drove datacenter-to-cloud migration saving **$150K annually** in infrastructure costs
-- Led multi-region Azure and AWS landing zone deployments across financial services, healthcare, energy, and media
+- Guide enterprise clients through end-to-end Azure adoption — greenfield landing zones, cloud migrations, and application modernization
+- Design and deploy containerized platforms on AKS and EKS with full CI/CD and GitOps automation
+- Build AI-integrated cloud platforms on Azure, including LLM-based data retrieval solutions
+- Architect secure, multi-region cloud environments across networking, compute, storage, and security layers
+- Deliver across diverse industries including financial services, healthcare, insurance, energy, and media
+- Hands-on with IaC from day one — every engagement built on Terraform, automated end to end
 
 ---
 
