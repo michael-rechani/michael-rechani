@@ -2,7 +2,7 @@
 
 **Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing and delivering cloud infrastructure, DevOps, and automation solutions across Azure and AWS.
 
-Currently working on and interested in **Agentic AI**, **Kubernetes**, and **GPU-accelerated compute**.
+Passionate about **Agentic AI** orchestration, scalable **Kubernetes** platforms, and **GPU-accelerated infrastructure**.
 
 ---
 
