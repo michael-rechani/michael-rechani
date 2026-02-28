@@ -19,17 +19,6 @@ Currently working on and interested in **Agentic AI**, **Kubernetes**, and **GPU
 
 ---
 
-### Highlights
-
-- Guide enterprise clients through end-to-end Azure adoption — greenfield landing zones, cloud migrations, and application modernization
-- Design and deploy containerized platforms on AKS and EKS with full CI/CD and GitOps automation
-- Build AI-integrated cloud platforms on Azure, including LLM-based data retrieval solutions
-- Architect secure, multi-region cloud environments across networking, compute, storage, and security layers
-- Deliver across diverse industries including financial services, healthcare, insurance, energy, and media
-- Hands-on with IaC from day one — every engagement built on Terraform, automated end to end
-
----
-
 ### Certifications
 
 ![Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Certified-Azure_Solutions_Architect_Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -39,10 +28,6 @@ Currently working on and interested in **Agentic AI**, **Kubernetes**, and **GPU
 ### Featured project
 
 **[NYC AI Hackathon](https://github.com/michael-rechani/NYC-AI-Hackathon)** — Infrastructure built for the NYC AI Hackathon using Terraform/HCL
-
----
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-rechani&show_icons=true&theme=default&hide_border=true)
 
 ---
 
