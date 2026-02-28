@@ -1,4 +1,4 @@
-## Hi, I'm Michael 👋
+# Hi, I'm Michael 👋
 
 **Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing and delivering cloud infrastructure, DevOps, and automation solutions across Azure and AWS.
 
@@ -6,7 +6,7 @@ Passionate about **Agentic AI** orchestration, scalable **Kubernetes** platforms
 
 ---
 
-### What I work with
+## What I work with
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -19,15 +19,9 @@ Passionate about **Agentic AI** orchestration, scalable **Kubernetes** platforms
 
 ---
 
-### Certifications
+## Certifications
 
 ![Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Certified-Azure_Solutions_Architect_Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-### Featured project
-
-**[NYC AI Hackathon](https://github.com/michael-rechani/NYC-AI-Hackathon)** — Infrastructure built for the NYC AI Hackathon using Terraform/HCL
 
 ---
 
