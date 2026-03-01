@@ -2,11 +2,13 @@
 
 **Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing and delivering cloud infrastructure, DevOps, and automation solutions across Azure and AWS.
 
-Passionate about **Agentic AI** orchestration, scalable **Kubernetes** platforms, and **GPU-accelerated infrastructure**.
+Building **agentic AI systems** on Azure — multi-agent orchestration with AutoGen, model-tiered routing, and real infrastructure tool access via MCP.
 
 ---
 
 ## What I work with
+
+### Cloud & Infrastructure
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -16,6 +18,14 @@ Passionate about **Agentic AI** orchestration, scalable **Kubernetes** platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### AI & Agents
+
+![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B21A8?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 
