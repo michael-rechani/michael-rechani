@@ -35,5 +35,5 @@ Building **agentic AI systems** on Azure — multi-agent orchestration with Auto
 
 ---
 
-🎓 B.S. Information Systems, *cum laude* — Ramapo College of New Jersey
+🎓 B.S. Information Systems — Ramapo College of New Jersey
 💼 [LinkedIn](https://www.linkedin.com/in/michael-rechani)
