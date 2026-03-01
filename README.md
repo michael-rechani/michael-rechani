@@ -2,7 +2,7 @@
 
 **Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing and delivering cloud infrastructure, DevOps, and automation solutions across Azure and AWS.
 
-Building **agentic AI systems** on Azure — multi-agent orchestration with AutoGen, model-tiered routing, and real infrastructure tool access via MCP.
+Building **agentic AI systems** on Azure — collaborating specialist agents via AutoGen, model-tiered routing, and safety-gated infrastructure access via MCP.
 
 ---
 
