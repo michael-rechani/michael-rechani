@@ -6,7 +6,7 @@
 
 ## What I Build
 
-🤖 **AI Agents & RAG Solutions** — AI agents, RAG assistants, retrieval pipelines, evaluation, and agentic workflow patterns
+🤖 **AI Agents & RAG Solutions** — AI agents, RAG assistants, and agentic workflow patterns
 
 🚀 **AI-Driven App Modernization** — GitHub Copilot and Claude Code for legacy analysis, refactoring, documentation, and modernization roadmaps
 
