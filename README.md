@@ -6,13 +6,15 @@
 
 ## What I Build
 
-🤖 **AI Solutions** — RAG Assistants, Azure OpenAI, AI Search, Cosmos DB, Azure AI Foundry
+🤖 **AI Agents & RAG Solutions** — AI agents, RAG-based assistants, Azure OpenAI, Azure AI Foundry, and agentic workflow patterns
 
-🚀 **App Modernization** — Monolith-to-microservices, containerization on AKS & EKS, GitOps with Flux & ArgoCD
+🚀 **AI-Driven App Modernization** — GitHub Copilot, Claude Code, legacy app analysis, refactoring, documentation, and monolith-to-microservices modernization
 
-⚙️ **DevOps & IaC** — Terraform, GitHub Actions, Azure DevOps
+☁️ **Cloud Architecture** — Azure/AWS landing zones, secure networking, hybrid cloud, resiliency, and scalable platform architecture
 
-☁️ **Cloud Architecture** — Azure & AWS landing zones, secure networking, hybrid cloud
+⚙️ **DevOps & IaC** — Terraform, GitHub Actions, Azure DevOps, Flux/ArgoCD, and CI/CD automation
+
+☸️ **Cloud-Native Application Platforms** — AKS/EKS deployments, Kubernetes, containers, microservices, GitOps, and scalable cloud-native architecture
 
 ---
 
@@ -46,14 +48,11 @@
 
 ## Certifications
 
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">
-  <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solutions Architect Expert" width="120"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/">
-  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="120"/>
-</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solutions Architect Expert" width="120"/></a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="120"/></a>
 
 ---
 
 🎓 B.S. Information Systems — Ramapo College of New Jersey
+
 💼 [LinkedIn](https://www.linkedin.com/in/michael-rechani)
