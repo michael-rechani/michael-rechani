@@ -46,8 +46,12 @@
 
 ## Certifications
 
-![Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Certified-Azure_Solutions_Architect_Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">
+  <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solutions Architect Expert" width="120"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/">
+  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="120"/>
+</a>
 
 ---
 
