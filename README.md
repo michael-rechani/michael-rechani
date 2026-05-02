@@ -1,24 +1,24 @@
 # Hi, I'm Michael 👋
 
-**Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing and delivering cloud infrastructure, DevOps, and AI solutions across Azure and AWS — spanning finance, healthcare, energy, media, and insurance sectors.
+**Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing cloud platforms, DevOps systems, and AI-enabled applications across Azure and AWS — spanning finance, healthcare, energy, media, and insurance sectors.
 
 ---
 
 ## What I Build
 
-🤖 **AI Agents & RAG Solutions** — AI agents, RAG-based assistants, Azure OpenAI, Azure AI Foundry, and agentic workflow patterns
+🤖 **AI Agents & RAG Solutions** — AI agents, RAG assistants, retrieval pipelines, evaluation, and agentic workflow patterns
 
-🚀 **AI-Driven App Modernization** — GitHub Copilot, Claude Code, legacy app analysis, refactoring, documentation, and monolith-to-microservices modernization
+🚀 **AI-Driven App Modernization** — GitHub Copilot and Claude Code for legacy analysis, refactoring, documentation, and modernization roadmaps
 
-☁️ **Cloud Architecture** — Azure/AWS landing zones, secure networking, hybrid cloud, resiliency, and scalable platform architecture
+☁️ **Cloud Architecture** — Azure/AWS landing zones, secure networking, identity, hybrid connectivity, and resiliency
 
-⚙️ **DevOps & IaC** — Terraform, GitHub Actions, Azure DevOps, Flux/ArgoCD, and CI/CD automation
+⚙️ **DevOps & IaC** — Terraform modules, GitHub Actions, Azure DevOps, GitOps, and CI/CD automation
 
-☸️ **Cloud-Native Application Platforms** — AKS/EKS deployments, Kubernetes, containers, microservices, GitOps, and scalable cloud-native architecture
+☸️ **Cloud-Native Application Platforms** — AKS/EKS, Kubernetes, containers, microservices, and platform engineering
 
 ---
 
-## What I work with
+## Technologies & Platforms
 
 ### Cloud & Infrastructure
 
@@ -37,12 +37,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### AI & Agents
+### AI, Agents & Developer Productivity
 
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+- Agentic workflows and RAG-based assistants
+- Retrieval patterns with Azure AI Search and vector data stores
+- AI-assisted engineering with GitHub Copilot and Claude Code
 
 ---
 
