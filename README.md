@@ -37,12 +37,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### AI, Agents & Developer Productivity
-
-- Agentic workflows and RAG-based assistants
-- Retrieval patterns with Azure AI Search and vector data stores
-- AI-assisted engineering with GitHub Copilot and Claude Code
-
 ---
 
 ## Certifications
