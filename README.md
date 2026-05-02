@@ -6,12 +6,13 @@
 
 ## What I Build
 
-| | |
-|---|---|
-| ☁️ **Cloud migrations & landing zones** | Azure & AWS, greenfield and lift-and-shift |
-| 🤖 **AI solutions** | RAG assistants, Azure OpenAI, AI Search, Cosmos DB |
-| ⚙️ **DevOps & IaC** | CI/CD pipelines, Terraform, GitHub Actions, Azure DevOps |
-| 🐳 **Containerized platforms** | AKS, EKS, GitOps with Flux & ArgoCD |
+🤖 **AI Solutions** — RAG Assistants, Azure OpenAI, AI Search, Cosmos DB, Azure AI Foundry
+
+🚀 **App Modernization** — Monolith-to-microservices, containerization on AKS & EKS, GitOps with Flux & ArgoCD
+
+⚙️ **DevOps & IaC** — Terraform, GitHub Actions, Azure DevOps
+
+☁️ **Cloud Architecture** — Azure & AWS landing zones, secure networking, hybrid cloud
 
 ---
 
@@ -36,14 +37,10 @@
 
 ### AI & Agents
 
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-6B21A8?style=flat&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 
