@@ -48,4 +48,4 @@
 
 🎓 B.S. Information Systems — Ramapo College of New Jersey
 
-💼 [LinkedIn](https://www.linkedin.com/in/michael-rechani)
+💼 [LinkedIn](https://www.linkedin.com/in/michaelrechani/)
