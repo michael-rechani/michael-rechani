@@ -1,41 +1,36 @@
 # Hi, I'm Michael 👋
 
-**Senior Cloud Solution Architect @ Microsoft** with 15+ years of experience designing cloud platforms, DevOps systems, and AI-enabled applications across Azure and AWS — spanning finance, healthcare, energy, media, and insurance sectors.
+**Senior Cloud Solution Architect, Infrastructure & AI at Microsoft** with 16+ years across financial services, healthcare, energy, media, and the public sector.
 
 ---
 
-## What I Build
+## What I Focus On
 
-🤖 **AI Agents & RAG Solutions** — AI agents, RAG assistants, and agentic workflow patterns
+🤖 **Enterprise AI** — RAG, grounded assistants, AI-assisted delivery
 
-🚀 **AI-Driven App Modernization** — GitHub Copilot and Claude Code for legacy analysis, refactoring, documentation, and modernization roadmaps
+🚀 **Application Modernization** — Cloud-native architecture, Kubernetes, GitOps
 
-☁️ **Cloud Architecture** — Azure/AWS landing zones, secure networking, identity, hybrid connectivity, and resiliency
+⚙️ **Platform Engineering** — Infrastructure as code, CI/CD, developer enablement
 
-⚙️ **DevOps & IaC** — Terraform modules, GitHub Actions, Azure DevOps, GitOps, and CI/CD automation
-
-☸️ **Cloud-Native Application Platforms** — AKS/EKS, Kubernetes, containers, microservices, and platform engineering
+☁️ **Cloud Architecture** — Landing zones, hybrid cloud, security, resilience
 
 ---
 
-## Technologies & Platforms
+## Core Technologies
 
-### Cloud & Infrastructure
+### Cloud & Platform
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux-5468FF?style=flat&logo=flux&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### AI
+
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -46,6 +41,6 @@
 
 ---
 
-🎓 B.S. Information Systems — Ramapo College of New Jersey
+🎓 **Education:** B.S. in Information Systems, *cum laude*, Ramapo College of New Jersey
 
-💼 [LinkedIn](https://www.linkedin.com/in/michaelrechani/)
+💼 **Connect:** [LinkedIn](https://www.linkedin.com/in/michaelrechani/)
