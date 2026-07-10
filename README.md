@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-**Senior Cloud Solution Architect, Infrastructure & AI at Microsoft** with 16+ years across financial services, healthcare, energy, media, and the public sector.
+**Senior Cloud Solution Architect, Infrastructure & AI at Microsoft** with 16+ years across financial services, healthcare, energy, media, and public sector.
 
 ---
 
