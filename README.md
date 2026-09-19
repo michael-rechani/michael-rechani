@@ -1,18 +1,19 @@
 # Hi, I'm Michael 👋
 
-**Senior Cloud Solution Architect, Infrastructure & AI at Microsoft** with 16+ years across financial services, healthcare, energy, media, and public sector.
+**Senior Cloud Solution Architect at Microsoft | Infrastructure & AI**
+
+I help teams design secure cloud platforms, modernize applications, and build grounded AI solutions. My background spans 16+ years across financial services, healthcare, energy, media, and the public sector.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/michaelrechani/)
 
 ---
 
 ## What I Focus On
 
-🤖 **Enterprise AI** — RAG, grounded assistants, AI-assisted delivery
-
-🚀 **Application Modernization** — Cloud-native architecture, Kubernetes, GitOps
-
-⚙️ **Platform Engineering** — Infrastructure as code, CI/CD, developer enablement
-
-☁️ **Cloud Architecture** — Landing zones, hybrid cloud, security, resilience
+- **Enterprise AI** — Retrieval-augmented generation (RAG), grounded assistants, and AI-assisted delivery.
+- **Application Modernization** — Cloud-native architecture, Kubernetes, and GitOps.
+- **Platform Engineering** — Infrastructure as code, CI/CD, and developer enablement.
+- **Cloud Architecture** — Landing zones, hybrid cloud, security, and resilience.
 
 ---
 
@@ -28,7 +29,7 @@
 
 ### AI
 
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 
@@ -42,5 +43,3 @@
 ---
 
 🎓 **Education:** B.S. in Information Systems, *cum laude*, Ramapo College of New Jersey
-
-💼 **Connect:** [LinkedIn](https://www.linkedin.com/in/michaelrechani/)
