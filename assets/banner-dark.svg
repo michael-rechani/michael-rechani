@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Michael Rechani</title>
+  <desc id="desc">Senior Cloud Solution Architect at Microsoft. Enterprise AI, Platform Engineering, Cloud Architecture, App Modernization.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="55%" stop-color="#0c2344"/>
+      <stop offset="100%" stop-color="#15173a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#50E6FF"/>
+      <stop offset="50%" stop-color="#0078D4"/>
+      <stop offset="100%" stop-color="#8661C5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="83%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#0078D4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0078D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="1200" height="300" rx="18"/>
+    </clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .name { font-size: 58px; font-weight: 700; fill: #ffffff; letter-spacing: -0.5px; }
+    .role { font-size: 24px; font-weight: 500; fill: #a8bdd6; }
+    .pill { fill: #ffffff; fill-opacity: 0.06; stroke: #50E6FF; stroke-opacity: 0.35; stroke-width: 1; }
+    .pill-text { font-size: 15px; font-weight: 600; fill: #d6e8ff; }
+    .link { stroke: #50E6FF; stroke-opacity: 0.28; stroke-width: 1.5; fill: none; }
+    .flow { stroke: #50E6FF; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 4 16; fill: none; animation: flow 2.4s linear infinite; }
+    .flow.alt { stroke: #b99cf0; animation-duration: 3.2s; }
+    .node { fill: #0f3a66; stroke: #50E6FF; stroke-width: 2; }
+    .hub { fill: #8661C5; stroke: #d7c7f7; stroke-width: 2; }
+    .pulse { fill: none; stroke: #50E6FF; stroke-width: 2; transform-box: fill-box; transform-origin: center; animation: pulse 3s ease-out infinite; }
+    .pulse.hub-ring { stroke: #b99cf0; }
+    .d1 { animation-delay: 1s; }
+    .d2 { animation-delay: 2s; }
+    @keyframes flow { to { stroke-dashoffset: -40; } }
+    @keyframes pulse { 0% { transform: scale(1); opacity: 0.8; } 100% { transform: scale(2.6); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+
+    <g>
+      <rect x="72" y="62" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="70" y="128" class="name">Michael Rechani</text>
+    </g>
+    <g>
+      <text x="72" y="172" class="role">Senior Cloud Solution Architect · Microsoft</text>
+    </g>
+    <g>
+      <rect x="72" y="206" width="144" height="36" rx="18" class="pill"/>
+      <text x="144" y="229" text-anchor="middle" class="pill-text">Enterprise AI</text>
+      <rect x="228" y="206" width="202" height="36" rx="18" class="pill"/>
+      <text x="329" y="229" text-anchor="middle" class="pill-text">Platform Engineering</text>
+      <rect x="442" y="206" width="186" height="36" rx="18" class="pill"/>
+      <text x="535" y="229" text-anchor="middle" class="pill-text">Cloud Architecture</text>
+      <rect x="640" y="206" width="177" height="36" rx="18" class="pill"/>
+      <text x="728.5" y="229" text-anchor="middle" class="pill-text">App Modernization</text>
+    </g>
+
+    <g>
+      <path class="link" d="M1000 150 L885 85"/>
+      <path class="link" d="M1000 150 L905 228"/>
+      <path class="link" d="M1000 150 L1105 70"/>
+      <path class="link" d="M1000 150 L1125 205"/>
+      <path class="link" d="M1000 150 L1030 255"/>
+      <path class="link" d="M885 85 L905 228"/>
+      <path class="link" d="M1105 70 L1125 205"/>
+      <path class="link" d="M885 85 L1105 70"/>
+
+      <path class="flow" d="M885 85 L1000 150"/>
+      <path class="flow alt" d="M1000 150 L1125 205"/>
+      <path class="flow" d="M1105 70 L1000 150"/>
+      <path class="flow alt" d="M1000 150 L905 228"/>
+
+      <circle cx="885" cy="85" r="9" class="pulse d1"/>
+      <circle cx="1125" cy="205" r="9" class="pulse d2"/>
+      <circle cx="1000" cy="150" r="16" class="pulse hub-ring"/>
+
+      <circle cx="885" cy="85" r="9" class="node"/>
+      <circle cx="905" cy="228" r="9" class="node"/>
+      <circle cx="1105" cy="70" r="9" class="node"/>
+      <circle cx="1125" cy="205" r="9" class="node"/>
+      <circle cx="1030" cy="255" r="7" class="node"/>
+      <circle cx="1000" cy="150" r="16" class="hub"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#30363d"/>
+</svg>
