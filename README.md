@@ -17,7 +17,7 @@ I help teams design secure cloud platforms, modernize applications, and build gr
 
 ### 🤖 Foundry Agent Lab
 
-A private Microsoft Foundry lab exploring how AI agents can work together to review documents and summarize information. Built around secure infrastructure, source-backed answers, and human oversight.
+Secure infrastructure. Purpose-built AI agents. A streamlined API with tools to monitor and improve performance.
 
 ### 🛠️ Also in the Works
 
