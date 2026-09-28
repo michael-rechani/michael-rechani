@@ -17,22 +17,7 @@ I help teams design secure cloud platforms, modernize applications, and build gr
 
 ### 🤖 Foundry Agent Lab
 
-**One foundation. Repeatable agent releases.** A private Microsoft Foundry lab where hosted agents work as a team to review real-world paperwork. Every finding quotes its source, and people make the call.
-
-| Agent | What it does |
-| --- | --- |
-| **🧭&nbsp;Application&nbsp;&&nbsp;case&nbsp;helper** | Coordinates the team: reads the request and hands it to the right specialist. |
-| **📋&nbsp;Application&nbsp;checker** | Checks an application against explicit criteria and flags missing budgets, owners, and conflicting schedules. |
-| **🗂️&nbsp;Case&nbsp;notes&nbsp;summarizer** | Turns scattered case notes into a cited brief, calling out conflicting dates and missing evidence. |
-
-Plus a **Create agent** flow that publishes new agents from reviewed templates, like a supplier invoice reviewer that catches billing that doesn't match the purchase order.
-
-**Under the hood:** private networking end to end · managed identities, no API keys · Terraform with Azure Verified Modules · versioned releases with rollback · evaluations and tracing
-
-**The plan**
-
-- ✅ **Shipped:** Private, keyless platform in Terraform · coordinator and specialist review agents · create-agent flow, evaluations, and tracing.
-- 🔜 **Up next:** More specialist agents for public-sector and healthcare workflows, released on the same foundation.
+A private Microsoft Foundry lab exploring how AI agents can work together to review documents and summarize information. Built around secure infrastructure, source-backed answers, and human oversight.
 
 ### 🛠️ Also in the Works
 
