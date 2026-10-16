@@ -15,14 +15,9 @@ I help teams design secure cloud platforms, modernize applications, and build gr
 
 ## 🔭 What I'm Building Now
 
-### 🤖 Foundry Agent Lab
+### 🤖 [Foundry Agent Lab](https://github.com/michael-rechani/foundry-agent-accelerator)
 
 Secure infrastructure. Purpose-built AI agents. A streamlined API with tools to monitor and improve performance.
-
-### 🛠️ Also in the Works
-
-- 🧩 **Copilot agent workflows** — Extensible agents and portable workflows for day-to-day admin, reporting, and oversight.
-- 🚀 **Copilot Studio automation** — Beginner-friendly tooling to deploy configuration, infrastructure, and agents.
 
 ## 🎯 What I Focus On
 
@@ -34,17 +29,17 @@ Secure infrastructure. Purpose-built AI agents. A streamlined API with tools to 
 ## 🧰 Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Caws%2Ckubernetes%2Cdocker%2Cterraform%2Cgithubactions%2Cpython%2Cpowershell%2Ccs%2Cbash%2Cgit%2Cvscode&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,githubactions,python,powershell,cs,bash,git,vscode&theme=dark">
   <img alt="Azure, AWS, Kubernetes, Docker, Terraform, GitHub Actions, Python, PowerShell, C#, Bash, Git, VS Code" src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,githubactions,python,powershell,cs,bash,git,vscode&theme=light">
 </picture>
 
-**AI & agents**
+**AI & agents**<br>
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B556A?style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
-**Cloud-native**
+**Cloud-native**<br>
 ![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat)
