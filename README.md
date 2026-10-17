@@ -5,8 +5,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michaelrechani/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&labelColor=4B5563"></a>
-  <img alt="16+ years in tech" src="https://img.shields.io/badge/16%2B_years-in_tech-8661C5?style=for-the-badge&labelColor=4B5563">
+  <br>
+  <a href="https://www.linkedin.com/in/michaelrechani/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <img alt="16+ years in tech" src="https://img.shields.io/badge/16%2B_years_in_tech-8661C5?style=for-the-badge">
 </p>
 
 ## 👋 Hi, I'm Michael
