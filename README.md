@@ -1,3 +1,5 @@
+<!-- Icons and badges are saved copies in assets/ (from skillicons.dev and shields.io) so they can't time out through GitHub's image proxy. -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
@@ -6,9 +8,9 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/michaelrechani/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/michaelrechani/"><img alt="Connect on LinkedIn" src="assets/badges/linkedin.svg"></a>
   &nbsp;
-  <img alt="16+ years in tech" src="https://img.shields.io/badge/16%2B_years_in_tech-8661C5?style=for-the-badge">
+  <img alt="16+ years in tech" src="assets/badges/years.svg">
 </p>
 
 ## 👋 Hi, I'm Michael
@@ -30,22 +32,24 @@ I help teams design secure cloud platforms, modernize applications, and build gr
 
 ## 🧰 Tech Stack
 
+<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,githubactions,python,powershell,cs,bash,git,vscode&theme=dark&perline=6">
-  <img alt="Azure, AWS, Kubernetes, Docker, Terraform, GitHub Actions, Python, PowerShell, C#, Bash, Git, VS Code" src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,githubactions,python,powershell,cs,bash,git,vscode&theme=light&perline=6">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+  <img alt="Azure, AWS, Kubernetes, Docker, Terraform, GitHub Actions, Python, PowerShell, C#, Bash, Git, VS Code" src="assets/tech-stack-light.svg">
 </picture>
+</p>
 
 **AI & agents**<br>
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B556A?style=flat)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Microsoft Foundry](assets/badges/microsoft-foundry.svg)
+![Azure OpenAI](assets/badges/azure-openai.svg)
+![Copilot Studio](assets/badges/copilot-studio.svg)
+![GitHub Copilot](assets/badges/github-copilot.svg)
 
 **Cloud-native**<br>
-![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![AKS](assets/badges/aks.svg)
+![Azure Container Apps](assets/badges/azure-container-apps.svg)
+![Bicep](assets/badges/bicep.svg)
+![Argo CD](assets/badges/argo-cd.svg)
 
 ## 📜 Certifications
 
