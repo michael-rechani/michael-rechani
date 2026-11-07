@@ -18,7 +18,7 @@ I help teams design secure cloud platforms, modernize applications, and build gr
 ## 🔭 What I'm Building Now
 
 - 🤖 **[Foundry Agent Lab](https://github.com/michael-rechani/foundry-agent-accelerator)** — Hosted-agent samples on Microsoft Foundry: a private web app, prebuilt review agents, and Terraform for a private-network deployment.
-- 📊 **[PTU & APIM Monitoring](https://github.com/michael-rechani/apim-ptu-monitoring)** — Azure Monitor workbooks and metric exports to validate PTU and APIM Standard v2 usage, with no Log Analytics required.
+- 📊 **[Azure AI Observatory](https://github.com/michael-rechani/azure-ai-observability)** — Azure Managed Grafana dashboards for Foundry agents and Azure OpenAI PTUs, with optional cost visibility.
 - 🗂️ **[App Consult / FDE Catalog](https://github.com/michael-rechani/app-consult-fde-catalog)** — A single front door to App Consult and FDE program resources.
 
 ## 🎯 What I Focus On
